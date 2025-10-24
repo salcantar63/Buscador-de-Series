@@ -1,0 +1,5 @@
+{
+  "name": "TV Series Finder",
+  "description": "An application that provides detailed information about TV series using Gemini with Google Search grounding. Users can search for a series and get information about its titles, seasons, air dates, streaming platforms, and IMDB rating.",
+  "requestFramePermissions": []
+}
